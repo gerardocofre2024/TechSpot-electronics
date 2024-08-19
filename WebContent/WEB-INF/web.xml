@@ -1,0 +1,9 @@
+<servlet>
+    <servlet-name>CatalogoServlet</servlet-name>
+    <servlet-class>com.techspot.CatalogoServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>CatalogoServlet</servlet-name>
+    <url-pattern>/catalogo</url-pattern>
+</servlet-mapping>
