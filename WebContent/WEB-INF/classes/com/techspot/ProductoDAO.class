@@ -1,0 +1,11 @@
+package com.techspot;
+
+import java.util.List;
+import java.util.ArrayList;
+
+public class ProductoDAO {
+    public List<Producto> getProductosRecomendados(String usuario) {
+        // Lógica para obtener productos recomendados
+        return new ArrayList<Producto>();
+    }
+}
